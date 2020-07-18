@@ -1,16 +1,22 @@
-### Hi there 👋
 
-<!--
-**YangChoi/YangChoi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Yang-Hyojeong (YangChoi)
+### learning Java | Newbie | wish to be Back-end programmer 
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 👨‍💻 I do 
+- Java 
+- Spring
+- MySQL
+- HTML/CSS
+
+### 🌱 I learned
+- Node.js
+- Oracle
+- JavaScript
+- AWS
+
+### ✨ can watch how I study 
+[study repository](https://yanguelna-programmer.tistory.com/)
+
+### 🎨 my portfolio blog
+[portfolio blog](https://yangchoi.github.io/)
