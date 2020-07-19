@@ -9,7 +9,7 @@
 - MySQL
 - HTML/CSS
 
-### 🌱 I learned
+### 🌱 I try to learn 
 - Node.js
 - Oracle
 - JavaScript
