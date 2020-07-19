@@ -20,3 +20,7 @@
 
 ### 🎨 my portfolio blog
 [portfolio blog](https://yangchoi.github.io/)
+
+
+### 🔔 Contact me 
+Email | yangchoi.hj@gmail.com
