@@ -1,5 +1,5 @@
 
-# Yang-Hyojeong (YangChoi)
+# Yang Hyojeong (YangChoi)
 ### learning Java | Newbie | wish to be Back-end programmer 
 
 
