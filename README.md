@@ -6,12 +6,12 @@
 ### 👨‍💻 I do 
 - Java 
 - Spring
-- MySQL
+- Oracle
 - HTML/CSS
 
 ### 🌱 I try to learn 
 - Node.js
-- Oracle
+- MySQL
 - JavaScript
 - AWS
 
