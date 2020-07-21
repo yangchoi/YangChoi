@@ -14,6 +14,7 @@
 - MySQL
 - JavaScript
 - AWS
+- Docker
 
 ### ✨ Can watch how I study 
 [study repository](https://yanguelna-programmer.tistory.com/)
