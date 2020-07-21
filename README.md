@@ -15,10 +15,10 @@
 - JavaScript
 - AWS
 
-### ✨ can watch how I study 
+### ✨ Can watch how I study 
 [study repository](https://yanguelna-programmer.tistory.com/)
 
-### 🎨 my portfolio blog
+### 🎨 My portfolio blog
 [portfolio blog](https://yangchoi.github.io/)
 
 
