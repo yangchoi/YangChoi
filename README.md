@@ -10,7 +10,7 @@
 - HTML/CSS
 
 ### 🌱 I try to learn 
-- Node.js
+- ruby on rails
 - MySQL
 - JavaScript
 - AWS
