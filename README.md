@@ -1,6 +1,6 @@
 
 # Yang Hyojeong (YangChoi)
-### learning Java | Newbie | wish to be Back-end programmer 
+### learning Ruby on Rails | Newbie | wish to be Back-end programmer 
 
 
 ### 👨‍💻 I do 
