@@ -4,13 +4,12 @@
 
 
 ### 👨‍💻 I do 
-- Java 
-- Spring
+- Ruby on rails
 - Oracle
 - HTML/CSS
 
 ### 🌱 I try to learn 
-- ruby on rails
+- Java / Spring
 - MySQL
 - JavaScript
 - AWS
