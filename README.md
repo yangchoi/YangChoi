@@ -5,7 +5,7 @@
 
 ### 👨‍💻 I do 
 - Ruby on rails
-- Oracle
+- Postgresql
 - HTML/CSS
 
 ### 🌱 I try to learn 
