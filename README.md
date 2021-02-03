@@ -7,13 +7,6 @@
 - Postgresql
 - HTML/CSS
 
-### 🌱 I try to learn 
-- Java / Spring
-- MySQL
-- JavaScript
-- AWS
-- Docker
-
 ### ✨ Can watch how I study 
 [study repository](https://yanguelna-programmer.tistory.com/)
 [TIL](https://yangchoi.github.io/)
