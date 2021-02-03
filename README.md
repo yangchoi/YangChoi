@@ -1,7 +1,6 @@
 
 # Yang Hyojeong (YangChoi)
-### learning Ruby on Rails | Newbie | wish to be Back-end programmer 
-
+### Ruby on Rails | Back-end programmer 
 
 ### 👨‍💻 I do 
 - Ruby on rails
@@ -17,6 +16,7 @@
 
 ### ✨ Can watch how I study 
 [study repository](https://yanguelna-programmer.tistory.com/)
+[TIL](https://yangchoi.github.io/)
 
 ### 🔔 Contact me 
 Email | yangchoi.hj@gmail.com <br>
