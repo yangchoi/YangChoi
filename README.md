@@ -8,8 +8,8 @@
 - HTML/CSS
 
 ### ✨ Can watch how I study 
-[study repository](https://yanguelna-programmer.tistory.com/)
-[TIL](https://yangchoi.github.io/)
+[study repository](https://yanguelna-programmer.tistory.com/) <br>
+[TIL blog](https://yangchoi.github.io/)
 
 ### 🔔 Contact me 
 Email | yangchoi.hj@gmail.com <br>
