@@ -1,5 +1,5 @@
 
-# Yang Hyojeong (YangChoi)
+# Yang Hyojeong
 ### Back-end programmer 
 
 Email | yangchoi.hj@gmail.com <br>
