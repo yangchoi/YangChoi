@@ -2,7 +2,7 @@
 # Yang Hyojeong
 ### Back-end programmer 
 Usually Object oriented programming. <br>
-I take it, any of chances or inspirations. <br>
+I take any of chances or inspirations. <br>
 
 
 #### 👇Contact me down here 
