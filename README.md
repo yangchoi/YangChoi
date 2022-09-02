@@ -9,4 +9,3 @@ I take any of chances or inspirations. <br>
 Email | yangchoi.hj@gmail.com <br>
 
 Resume (Kor) | [Resume](https://docs.google.com/document/d/1kstIvuthLIDqVqEXc_6I2Xg9bInYSsE6ryuBPyJftTQ/edit?usp=sharing) <br>
-Resume (Eng_working)
