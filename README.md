@@ -1,7 +1,7 @@
 
 # Yang Hyojeong
 ### Back-end programmer 
-Usually Object oriented programming. <br>
+Usually Object Oriented Programming. <br>
 I take any of chances or inspirations. <br>
 
 
